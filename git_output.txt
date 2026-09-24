@@ -1,0 +1,46 @@
+--- GIT LOG ---
+d184a06 feat(phase6): add ethereal notification logic and live demo mock state seeding
+723c825 feat(phase5): implement real-time sockets with JWT auth and atomic driver claims
+9316f64 docs+config: add text-5xl tier for dashboard display numbers
+6265ac2 docs: add design tokens reference for Phase 4 UI build
+0e4fcdd Initial commit
+
+--- GIT STATUS ---
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env.example
+	.gitignore
+	client/.gitignore
+	client/.oxlintrc.json
+	client/README.md
+	client/index.html
+	client/postcss.config.js
+	client/public/
+	client/src/App.css
+	client/src/assets/
+	client/src/components/CountdownTimer.jsx
+	client/src/components/ImpactDashboard.jsx
+	client/src/index.css
+	client/src/main.jsx
+	client/vite.config.js
+	mail_result.txt
+	mail_test.js
+	package.json
+	server/eth_url.txt
+	server/mail_test_fs.js
+	server/models/
+	server/package-lock.json
+	server/package.json
+	server/services/matching.js
+	server/tests/
+	trigger.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
