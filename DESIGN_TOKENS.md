@@ -21,3 +21,4 @@ These tokens define the strict, highly accessible Light Theme for the frontend, 
 - **Global Font**: `font-sans` (System fallbacks: Inter, Roboto, Helvetica)
 - **Touch Targets**: Min height 48px (`h-12`) footprint for all mobile buttons (Driver / Donor views).
 - **Shadows**: Distinct `shadow-sm` on structural cards, `shadow-md` on modals.
+- **--text-5xl**: 56px / 64px /* dashboard big numbers on shared/TV screens only */
